@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/AdriatikDushica/react-pure-function/issues"
   },
-  "homepage": "https://github.com/AdriatikDushica/react-pure-function#readme"
+  "homepage": "https://github.com/AdriatikDushica/react-pure-function#readme",
+  "devDependencies": {
+    "react": "^16.2.0"
+  }
 }
