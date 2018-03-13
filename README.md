@@ -23,7 +23,7 @@ const MyComponent = PurifyFunction( () => (
 ```
 is equivalent to this
 ```javascript
-class MyComponent extends React.PureComponent PurifyFunction {
+class MyComponent extends React.PureComponent {
   render() {
     return (
       <div>
