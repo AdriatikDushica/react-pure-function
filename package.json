@@ -1,0 +1,26 @@
+{
+  "name": "react-pure-function",
+  "version": "1.0.0",
+  "description": "Transform your React stateless functional components into React.PureComponent without changing your code structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdriatikDushica/react-pure-function.git"
+  },
+  "keywords": [
+    "react",
+    "pure",
+    "component",
+    "function",
+    "arrow"
+  ],
+  "author": "Adriatik Dushica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdriatikDushica/react-pure-function/issues"
+  },
+  "homepage": "https://github.com/AdriatikDushica/react-pure-function#readme"
+}
